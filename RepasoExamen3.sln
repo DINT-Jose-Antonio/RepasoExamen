@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepasoExamen3", "RepasoExamen3.csproj", "{4EAA8E52-CAF7-4E7F-91F4-7C6C3C14896D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAA8E52-CAF7-4E7F-91F4-7C6C3C14896D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAA8E52-CAF7-4E7F-91F4-7C6C3C14896D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAA8E52-CAF7-4E7F-91F4-7C6C3C14896D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAA8E52-CAF7-4E7F-91F4-7C6C3C14896D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
